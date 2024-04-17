@@ -20,19 +20,13 @@ This is a simple note-taking application built using React. It allows users to c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Note-Taking-App.git
+   git clone https://github.com/KRISHNAKUMARPS2002/Note-Taking-App.git
 
-2. Navigate to the project directory:
- 
-   cd Note-Taking-App
+2. Navigate to the project directory:  cd Note-Taking-App
 
-3.Install dependencies:
+3. Install dependencies:  npm install
 
-   npm install
-
-4.Start the development server:
-
-npm start
+4. Start the development server:  npm start
 
 ## Usage
 
