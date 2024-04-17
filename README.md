@@ -2,6 +2,10 @@
 
 This is a simple note-taking application built using React. It allows users to create, view, and delete notes.
 
+# Preview
+
+![Preview](public/preview.png)
+
 ## Features
 
 - Add new notes with a title and content.
